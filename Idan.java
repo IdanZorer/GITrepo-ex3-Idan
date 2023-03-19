@@ -4,7 +4,7 @@ public class Idan
 	{
 		for(int i=1; i<=10; i++)
 		{
-			System.out.println("Idan2");
+			System.out.println("Idan");
 		}
 	}
 }
